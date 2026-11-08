@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="A beginner friendly course in web development using HTML5 and CSS3.">
+  <title>Web Development For Beginners</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <header class="site-header">
+    <h2 class="logo">Web Development For Beginners</h2>
+    <nav>
+      <ul>
+        <li><a href="#home">Home</a></li>
+        <li><a href="#features">Features</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <section id="home" class="hero">
+    <div class="hero-text">
+      <h1>How To Become a Professional Web Developer</h1>
+      <p>
+        I will teach you how to create stunning webpages and how to structure
+        sections, create layouts, and design beautiful web pages using only
+        HTML and CSS. It will help you master alignment, spacing and
+        responsive design.
+      </p>
+      <a href="#features" class="btn">Get Started</a>
+    </div>
+    <div class="hero-image">
+      <img src="images/hero.jpg" alt="A student learning web development on a laptop">
+    </div>
+  </section>
+
+
+
+
